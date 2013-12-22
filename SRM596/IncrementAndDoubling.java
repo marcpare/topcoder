@@ -1,6 +1,10 @@
 /*
 
+2013-12-07
+Solved on first try.
 
+Cool trick: use the binary representation.
+(which I did implicitly)
 
 */
 import java.util.*;
